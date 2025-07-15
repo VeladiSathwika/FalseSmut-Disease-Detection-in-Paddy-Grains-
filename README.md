@@ -5,7 +5,7 @@ For Healthy grain detection:
 - Accuracy: 92%
 - Precision: 91%
 - Recall: 97%
-- F1-Score: 94%
+- F1-Score: 94% 
 For infected grain detection:
 - Precision (Infected): 94%
 - Recall (Infected): 84%
