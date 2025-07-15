@@ -1,12 +1,12 @@
 This project presents a Convolutional Neural Network (CNN)-based model for detecting False Smut Disease in paddy grains.
 It focuses on image classification techniques using supervised learning to differentiate healthy grains from infected ones with high accuracy and robustness.
 The CNN model was evaluated using multiple performance metrics:
-  For Healthy grain detection:
+For Healthy grain detection:
 - Accuracy: 92%
 - Precision: 91%
 - Recall: 97%
 - F1-Score: 94%
-  For infected grain detection:
+For infected grain detection:
 - Precision (Infected): 94%
 - Recall (Infected): 84%
 - F1-Score (Infected): 89%
