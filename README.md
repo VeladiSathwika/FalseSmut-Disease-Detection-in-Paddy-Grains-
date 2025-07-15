@@ -10,7 +10,7 @@ For infected grain detection:
 - Precision (Infected): 94%
 - Recall (Infected): 84%
 - F1-Score (Infected): 89%
-Dataset
+🧪 Dataset
 Training and testing were conducted on a combination of publicly available paddy grain images and artificially generated false smut-infected samples. These were preprocessed to improve clarity and enhance model learning.
 🧰 Technologies Used
 - Python
@@ -23,7 +23,6 @@ Training and testing were conducted on a combination of publicly available paddy
 - Visualization of training vs. validation accuracy
 - Modular code design for easy extension
 📌 How to Run
-# Train or evaluate the model
 python -m streamlit run app.py
 🛠️ Future Enhancements
 - Integration of temporal data for tracking disease progression
